@@ -1,0 +1,83 @@
+*{
+	box-sizing: border-box;
+}
+.row {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.row > div {
+  margin:10px 10px 10px 10px;
+  width : 31%;
+  background-color: PeachPuff;
+  border: solid black;
+  /*float: left;*/
+  padding-left: 10px;
+}
+.h1{
+	margin-bottom: 15px;
+  text-align: center;
+  color: #ff4532;
+  font-size: 50px;
+}
+.head{
+	float: right;
+	position:absolute;
+	background-color:Pink;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    margin: 0;
+    width: 230px;
+	right:0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    height: 45px;
+    padding-top: 10px;
+}
+.head1{
+	float: right;
+	position:absolute;
+	background-color:coral;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    margin: 0;
+    width: 230px;
+	right:0px;
+    text-align: center;
+    font-style: Times;
+    font-size: 24px;
+    font-weight: bold;
+    height: 45px;
+    padding-top: 10px;
+}
+.head2{
+	float: right;
+	position:absolute;
+	background-color:lightcoral;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    margin: 0;
+    width: 230px;
+	right:0px;
+    text-align: center;
+    font-style: Times;
+    font-size: 24px;
+    font-weight: bold;
+    height: 45px;
+    padding-top: 10px;
+}
+.h4{
+	text-align:center;
+	font: italic small-caps bold 12px/30px Georgia, serif;
+}
+p{
+	padding: 50px 15px 10px 15px;
+}
+
+
